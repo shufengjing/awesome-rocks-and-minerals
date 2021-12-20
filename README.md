@@ -1,12 +1,14 @@
 # 岩石与矿物科普资源
 
-### 为什么要给孩子或者自己科普：
+[TOC]
 
-#### 地球用岩石记录时光：
+### 为什么要给孩子或者自己科普
+
+#### 地球用岩石记录时光
 
 地球本身是个岩石星球，学习岩石和矿物，可以让我们更好的了解地球，这个我们全人类的共同家园。了解地球的起源，也可以了解地球的现在。
 
-#### 岩石和矿物无处不在：
+#### 岩石和矿物无处不在
 
 哪怕我们生活在平原，平时看不见石头。我们最常见的土壤是岩石经过风化形成的，沙子也是岩石风化或者冲刷形成的。
 
@@ -16,7 +18,7 @@
 
 学习岩石和矿物可以让我们更好的理解我们的日常生活。
 
-#### 可以更好面对未来：
+#### 可以更好面对未来
 
 不管是我们决定保护地球，让地球成为更美好家园，还是决定移居火星或者其它星球，学习岩石和矿物都可以让我们更好应对。
 
@@ -24,13 +26,9 @@
 
 移居火星或者其它星球，也离不开我们对岩石和矿物的了解，因为火星也是个岩石星球。
 
-[TOC]
+### 绘本
 
-
-
-### 绘本：
-
-##### 1. 莎莎的石头 A Stone for Sascha
+1. 莎莎的石头 A Stone for Sascha
 
 ![JD.COM京东](https://tva1.sinaimg.cn/large/008i3skNly1gxgfz8daj6j30m80m840y.jpg)
 
@@ -42,7 +40,7 @@
 
 2条故事线通过小女孩在圣胡安群岛海边捡到这块石头串起来。最后，小女孩把石头送给了他们家的狗 - 也就是莎莎，来寄托思念之情。
 
-##### 2. 老石头：地球诞生以来的生命故事 Old Rock(is not boring)
+2. 老石头：地球诞生以来的生命故事 Old Rock(is not boring)
 
 ![老石头](https://tva1.sinaimg.cn/large/008i3skNly1gxgg1yqtgqj30pm0v845r.jpg)
 
@@ -52,7 +50,7 @@
 >
 > 本书荣获2020年度《柯克斯评论》推荐2020年度儿童哲思类蕞佳图画书、美国《父母杂志》推荐2020年度蕞佳童书、美国芝加哥公告图书馆推荐2020年蕞佳童书
 
-##### 3. 驴小弟变石头 Sylvster and the Magic Pebble
+3. 驴小弟变石头 Sylvster and the Magic Pebble
 
 ![驴小弟变石头](https://tva1.sinaimg.cn/large/008i3skNgy1gxgg7dqmcqj30p10ygtel.jpg)
 
@@ -60,13 +58,13 @@
 
 经典绘本，英文原版最早出版于1969年，凯迪克图画书金奖作品。
 
-##### 4. 石头佩特拉 Petra
+4. 石头佩特拉 Petra
 
 ![石头](https://tva1.sinaimg.cn/large/008i3skNgy1gxgg91lu30j30u018yjvc.jpg)
 
 简介：一块小石头从最开始以为自己是座大山，被扔进鸟窝以为自己是只鸟蛋，又被踢到池塘幻想自己是一座小岛，最后被一个小女孩带回家成为更多可能的故事。生活有无数可能，无论遇到什么处境，小石头都保持乐观，积极应对。
 
-##### 5. 小石子，大秘密 This Little Pebble
+5. 小石子，大秘密 This Little Pebble
 
 ![大秒密](https://tva1.sinaimg.cn/large/008i3skNgy1gxghw44xn8j30m80m8afw.jpg)
 
@@ -84,7 +82,7 @@
 
 为了回答这些问题，绘本涵盖了包括火山喷发、岩石种类、岩石硬度、甚至石器时代等多个和岩石相关主题。
 
-##### 6. 大石头和小石头 
+6. 大石头和小石头 
 
 ![大石头和小石头](https://tva1.sinaimg.cn/large/008i3skNgy1gxghvlg3hzj30k00k0ac9.jpg)
 
@@ -96,25 +94,25 @@
 
 作者通过这个故事反思自己当年对待孩子的方式，提醒大家要从孩子的视角去看到世界，不要轻易否定孩子。
 
-##### 7. 石头的猜想 A Rock Can Be
+7. 石头的猜想 A Rock Can Be
 
 ![s28387968](https://tva1.sinaimg.cn/large/008i3skNgy1gxghj3uct5j30bq0dwt9z.jpg)
 
 简介：相比石头的猜想，原版书名A Rock Can Be更直观表述这本书的内容。作者列举了石头在自然界的表现形式以及在生活中和自然界的应用，从常见的石头路、石头房子、大山，到不那么常见的石头可以做书立、可以生火、还可以发光等等，让孩子重新认识石头。
 
-##### 8. 人人都需要一块石头 Everybody Needs a Rock
+8. 人人都需要一块石头 Everybody Needs a Rock
 
 ![人人都需要](https://tva1.sinaimg.cn/large/008i3skNgy1gxgie1jehxj30f60f6wfc.jpg)
 
 简介：拜尔德·贝勒写给孩子的诗歌绘本。诗歌主题是找到专属于自己那块石头的十个守则。
 
-##### 9. If You Find a Rock
+9. If You Find a Rock
 
 ![PHOTOGEAPHS](https://tva1.sinaimg.cn/large/008i3skNgy1gxjxn437pgj30dw0cowff.jpg)
 
 简介：关于石头的诗歌绘本。石头有无数种可能，可以许愿、可以打水漂、可以踢着玩、可以珍藏记忆。。。
 
-##### 10. A Rock is Lively
+10. A Rock is Lively
 
 ![iLuyy Sywva Long](https://tva1.sinaimg.cn/large/008i3skNly1gxl1b96yr4j30dm0gpmz1.jpg)
 
@@ -122,7 +120,7 @@
 
 简介：从封面就窥见端倪，这本绘本或许是最美的岩石与矿物科普绘本。石头可以老、可大也可小、可以让人挥洒创意、可以有令人惊叹的美、也可以很有用。归根结底，石头充满活力。
 
-##### 11. 石头与鸟儿 The Rock and the Bird
+11. 石头与鸟儿 The Rock and the Bird
 
 ![s29986035](https://tva1.sinaimg.cn/large/008i3skNgy1gxl2rb9kpvj30hh0ln76e.jpg)
 
@@ -130,9 +128,9 @@
 
 作者是新加坡女孩周谢韶蔚，是14岁时参加英国皇家联邦协会征文比赛写下的获奖文章，当时文章名字为《不可能的朋友》（《Unlikely Friends》），后来改名《石头与鸟儿》（《The Rock and the Bird》）出版成书，也多次获奖，打动无数人。
 
-### 拓展阅读：
+### 拓展阅读
 
-##### 1. 宝石圣典：矿物与岩石权威图鉴  Rock and Gem: The Definitive Guide to Rocks, Minerals, Gemstones, and Fossils 
+1. 宝石圣典：矿物与岩石权威图鉴  Rock and Gem: The Definitive Guide to Rocks, Minerals, Gemstones, and Fossils 
 
 ![s28925471](https://tva1.sinaimg.cn/large/008i3skNly1gxl27a2jklj30ca0dwgmi.jpg)
 
@@ -140,27 +138,27 @@
 
 
 
-### 视频：
+### 视频
 
 
 
-### 博物馆：
+### 博物馆
 
 目前收录全球最值得逛的6个博物馆。
 
-##### 1. 中国地质博物馆
+1. 中国地质博物馆
 
 官网：http://www.gmc.org.cn/
 
 简介：亚洲第一大地质学博物馆，馆藏岩石与矿物标本20余万件。
 
-##### 2. 美国国立自然历史博物馆（National Museum of Natural History）
+2. 美国国立自然历史博物馆（National Museum of Natural History）
 
 官网：https://naturalhistory.si.edu/
 
 简介：国立自然历史博物馆拥有350000件矿物宝石展品（其中宝石10000件），数量庞大，宝石藏品量在全球各大博物馆傲居首位。
 
-##### 3. 美国自然历史博物馆（American Museum of Natural History）
+3. 美国自然历史博物馆（American Museum of Natural History）
 
 官网：https://www.amnh.org/
 
@@ -168,53 +166,55 @@
 
 在矿物地质方面，馆内的科普主题做的很完善，有专门的矿物形成环境展示区，矿物各类物理属性专柜展示，光学属性展示，十足的科普学习好去处。
 
-##### 4. 伦敦自然历史博物馆（Natural History Museum）
+4. 伦敦自然历史博物馆（Natural History Museum）
 
 官网：https://www.nhm.ac.uk/
 
 简介：英国规模最大的自然历史博物馆，收藏超过8000万件动植物标本、矿物及化石。重要藏品包括长达25米的蓝鲸骨骼标本、第一批人类发现的禽龙牙齿化石等。
 
-##### 5. 德国柏林自然历史博物馆( Museum für Naturkunde (MfN),英文：the Natural History Museum in Berlin)
+5. 德国柏林自然历史博物馆( Museum für Naturkunde (MfN),英文：the Natural History Museum in Berlin)
 
 官网：https://www.museumfuernaturkunde.berlin/en
 
 简介：展区面积超过6000平方米，藏有3000多万件动物学、地质学、矿物学以及古生物学的标本，是德国最大的自然博物馆，也是世界上最大的科学博物馆之一。该博物馆拥有许多“世界之最”，比如：世界上数量最多的动物标本，世界上最大的恐龙化石。世界上最古老的鸟类化石以及世界上最大和最古老的陨石标本等。
 
-### 电影：
+### 电影
 
 目前收录两部根据凡尔纳经典科幻小说《地心游记》改编电影，更多相关电影可以参考豆瓣「[深入地心豆列](https://www.douban.com/doulist/1180392/)」。
 
-##### 1. 地心游记 Journey to the Center of the Earth (1959)
+1. 地心游记 Journey to the Center of the Earth (1959)
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxjx3dt4kmj30rs15otfg.jpg" alt="JULES VERNE" style="zoom: 33%;" />
+   
 
-简介：1959年的老电影，根据凡尔纳经典科幻小说《地心游记》改编，剧情比较符合原著内容。很可惜，年代久远，不容易找资源。
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxjx3dt4kmj30rs15otfg.jpg"  />
 
-##### 2. 地心历险记 Journey to the Center of the Earth (2008)
+​	简介：1959年的老电影，根据凡尔纳经典科幻小说《地心游记》改编，剧情比较符合原著内容。很可惜，年代久远，不容易找	资源。
+
+2. 地心历险记 Journey to the Center of the Earth (2008)
 
 <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxjxailmt3j30s515otjz.jpg" alt="JOURNEY" style="zoom:50%;" />
 
 简介：剧情设定为现代，不是直接根据凡尔纳经典科幻小说《地心游记》改编，不过角色设定，以及剧情都和小说息息相关。剧情设定《地心游记》根本不是小说，而是真正的游记，有人确实到过地心，之后把故事告诉了凡尔纳。
 
-### 实验：
+### 实验
 
 
 
-### 艺术：
+### 艺术
 
-##### 迪士尼海洋：地心探险之旅
+迪士尼海洋：地心探险之旅
 
 ![631_main_visual_name_2](https://tva1.sinaimg.cn/large/008i3skNly1gxiss935rcj30nw0b4gpp.jpg)
 
 简介：日本东京迪士尼海洋中的一项游乐设施，位于乐园内的神秘岛区。游乐设施以法国小说家儒勒·凡尔纳代表作《地心历险记》作为故事背景，游客将乘坐称为“地底行走车”的车辆，在科学家尼默船长发掘的地底世界移动探险。
 
-#### 音乐：
+#### 音乐
 
-### 故事：
+### 故事
 
-### 工具：
+### 工具
 
-##### 1. Rock Identifier: Stone ID
+1. Rock Identifier: Stone ID
 
 <img src="https://tva1.sinaimg.cn/large/008i3skNly1gxl24hlcfrj30u01szti6.jpg" alt="IMG_A70BDFEFE5C4-1" style="zoom: 50%;" />
 
@@ -222,144 +222,144 @@
 
 简介：目前发现最好用的拍照识别岩石和矿物APP，识别记录自动保存，支持中文。国内应用市场没有上架，IOS版可以在美区APP Store上下载，安卓版可以通过Goolge Play安装。免费版有广告。
 
-### 数据库：
+### 数据库
 
-##### 1. 分类矿物数据库
+1. 分类矿物数据库
 
-网址: http://mineral.galleries.com/
+   网址： http://mineral.galleries.com/
 
-简介:系统的收录了矿物学数据，可以按分类、名称、性质等检索矿物。
+   简介：系统的收录了矿物学数据，可以按分类、名称、性质等检索矿物。
 
-##### 2. 矿物数据库
+2. 矿物数据库
 
-网址: http://www.mindat.org/
+   网址： http://www.mindat.org/
 
-简介: 是网络中最大的矿物数据库和矿物学文献网站。该网站包含了目前已知的矿物数据，矿物产地和矿物学的其他信息，并且每天都有更新。可以按矿物的性质、成分、名称来检索矿物。
+   简介： 是网络中最大的矿物数据库和矿物学文献网站。该网站包含了目前已知的矿物数据，矿物产地和矿物学的其他信息，并且每天都有更新。可以按矿物的性质、成分、名称来检索矿物。
 
-##### 3. 矿物数据库
+3. 矿物数据库
 
-网址: http://www.webmineral.com/
+   网址： http://www.webmineral.com/
 
-简介:该矿物数据库包含了4442个矿物种的全面描述，并有图片、语音、动画等。数据库根据结晶学、晶体结构、X射线粉晶衍射、化学组成、物理性质、Dana's New分类、Strunz分类、矿物样品图片和按字母排列等将矿物进行分类，提供每一种矿物的数据检索和该矿物在互联网上其他丰富的相关资源链接，是数据最全的矿物数据库。
+   简介： 该矿物数据库包含了4442个矿物种的全面描述，并有图片、语音、动画等。数据库根据结晶学、晶体结构、X射线粉晶衍射、化学组成、物理性质、Dana's New分类、Strunz分类、矿物样品图片和按字母排列等将矿物进行分类，提供每一种矿物的数据检索和该矿物在互联网上其他丰富的相关资源链接，是数据最全的矿物数据库。
 
-##### 4. 矿物数据
+4. 矿物数据
 
-网址: http://euromin.w3sites.net/mineraux/accueil.html
+   网址： http://euromin.w3sites.net/mineraux/accueil.html
 
-简介: 欧洲矿物学博物馆建立的矿物数据库，提供按字母排列方式的检索，有矿物的化学成分、晶体学参数、物理性质、光学参数等数据。
+   简介： 欧洲矿物学博物馆建立的矿物数据库，提供按字母排列方式的检索，有矿物的化学成分、晶体学参数、物理性质、光学参数等数据。
 
-##### 5. 简明矿物学数据
+5. 简明矿物学数据
 
-网址: http://un2sg4.unige.ch/athena/mineral/mineral.html
+   网址： http://un2sg4.unige.ch/athena/mineral/mineral.html
 
-简介:通过字母、成分等检索矿物，提供简明的矿物数据列表。
+   简介：通过字母、成分等检索矿物，提供简明的矿物数据列表。
 
-##### 6. 矿物学数据档案
+6. 矿物学数据档案
 
-网址: http://www.minrec.org/contents.asp
+   网址： http://www.minrec.org/contents.asp
 
-简介：该网站为一家矿物学档案公司建立，并出版相关矿物学档案杂志,每年发行6期。广泛收集全球与矿物相关的记录，包括采矿和矿物历史资料以及有关新矿物种的描述。刊载有关公众或私人收藏信息，矿物展览市场报告和矿物学相关的图书资料。
+   简介：该网站为一家矿物学档案公司建立，并出版相关矿物学档案杂志,每年发行6期。广泛收集全球与矿物相关的记录，包括采矿和矿物历史资料以及有关新矿物种的描述。刊载有关公众或私人收藏信息，矿物展览市场报告和矿物学相关的图书资料。
 
-##### 7. 矿物晶体结构数据
+7. 矿物晶体结构数据
 
-网址: http://database.iem.ac.ru/mincryst/search.php
+   网址： http://database.iem.ac.ru/mincryst/search.php
 
-简介:有6527个记录（2777个独立名称）的矿物晶体结构数据库，提供完整的晶体结构数据。
+   简介：有6527个记录（2777个独立名称）的矿物晶体结构数据库，提供完整的晶体结构数据。
 
-##### 8. 美国矿物学家晶体结构数据库
+8. 美国矿物学家晶体结构数据库
 
-网址: http://www.geo.arizona.edu/AMS/
-或 http://rruff.geo.arizona.edu/AMS/amcsd.php
+   网址： http://www.geo.arizona.edu/AMS/ 或 http://rruff.geo.arizona.edu/AMS/amcsd.php
 
-简介:这个网站是一个包括发表在美国矿物学家，加拿大矿物学家，欧洲矿物学和物理化学矿物学报，以及从其他期刊中选取数据集的晶体结构数据库的接口。该数据库是由美国矿物学会和加拿大矿物学协会监管，以及由美国国家科学基金会资助。数据库提供交互式软件套件，可以用于查看和设置晶体结构和计算晶体的不同性质，例如几何形状，衍射图案，和晶体电子密度。
+   简介：这个网站是一个包括发表在美国矿物学家，加拿大矿物学家，欧洲矿物学和物理化学矿物学报，以及从其他期刊中选取数据集的晶体结构数据库的接口。该数据库是由美国矿物学会和加拿大矿物学协会监管，以及由美国国家科学基金会资助。数据库提供交互式软件套件，可以用于查看和设置晶体结构和计算晶体的不同性质，例如几何形状，衍射图案，和晶体电子密度。
 
-##### 9. Colorado大学矿物结构数据
+9. Colorado大学矿物结构数据
 
-网址: http://ruby.colorado.edu/~smyth/min/minerals.html
+   网址： http://ruby.colorado.edu/~smyth/min/minerals.html
 
-简介: 由科罗拉多大学的joe smyth教授建立，按矿物的分类提供矿物结晶学数据和晶体结构图形，物理性质数据等。
+   简介： 由科罗拉多大学的joe smyth教授建立，按矿物的分类提供矿物结晶学数据和晶体结构图形，物理性质数据等。
 
-##### 10. 沸石结构数据库
+10. 沸石结构数据库
 
-网址: http://www.iza-structure.org/databases/
+    网址： http://www.iza-structure.org/databases/
 
-简介:该数据库可以查到所有沸石的粉晶衍射数据和晶体结构数据以及笼式结构。
+    简介：该数据库可以查到所有沸石的粉晶衍射数据和晶体结构数据以及笼式结构。
 
-##### 11. 俄罗斯矿物学综合网站
+11. 俄罗斯矿物学综合网站
 
-网址: http://database.iem.ac.ru/
+    网址： http://database.iem.ac.ru/
 
-简介： 与矿物有关的链接有：
-IEM Virtual Library - 超过35种地球化学、矿物学、岩石学杂志
-CFMAS thermodynamic parameters -矿物性质数据库
-WWW-MINCRYST - 矿物晶体结构数据库（有6300个记录和2800个独立矿物种数据）
-WWW-Messbauer - 矿物穆斯堡尔谱数据库
+    简介： 与矿物有关的链接有：
 
-##### 12. 中国岩矿地球化学数据库
+    - IEM Virtual Library - 超过35种地球化学、矿物学、岩石学杂志
+    - CFMAS thermodynamic parameters -矿物性质数据库
+    - WWW-MINCRYST - 矿物晶体结构数据库（有6300个记录和2800个独立矿物种数据）
+    - WWW-Messbauer - 矿物穆斯堡尔谱数据库
 
-网址：http://geodb.gig.ac.cn/
+12. 中国岩矿地球化学数据库
 
-简介：由中科院广州地球化学研究所创建。该数据库以我国矿物、岩石、地球化学与环境科学为主要内容；共含9个子库，分别为：中国矿物数据库，中国陨石数据库，中国岩石学数据库，中国矿床数据库，中国同位素地球化学数据库，中国元素地球化学数据库，中国有机岩石学数据库，中国有机地球化学数据库，珠江三角洲污染物数据库，总数据量目前已达2500M。
+    网址：http://geodb.gig.ac.cn/
 
-##### 13. 矿物数据库系统
+    简介：由中科院广州地球化学研究所创建。该数据库以我国矿物、岩石、地球化学与环境科学为主要内容；共含9个子库，分别为：中国矿物数据库，中国陨石数据库，中国岩石学数据库，中国矿床数据库，中国同位素地球化学数据库，中国元素地球化学数据库，中国有机岩石学数据库，中国有机地球化学数据库，珠江三角洲污染物数据库，总数据量目前已达2500M。
 
-网址：http://www.sdinfo.net.cn/gmrs/mineral/
+13. 矿物数据库系统
 
-简介：该数据库由中国地质科学院矿产资源研究所提供并负责维护。目前，该数据库包括了1991年以前发现的共计4424个矿物种。并提供以下几个方面的数据在线检索：（1）矿物名称：中文名，英文名；（2）矿物对称性；（3）矿物物理性质；（4）矿物化学性质；（5）矿物光学性质；（6）矿物波谱；（7）其他特性。
+    网址：http://www.sdinfo.net.cn/gmrs/mineral/
 
-##### 14. 国土资源科学数据共享矿物数据库
+    简介：该数据库由中国地质科学院矿产资源研究所提供并负责维护。目前，该数据库包括了1991年以前发现的共计4424个矿物种。并提供以下几个方面的数据在线检索：（1）矿物名称：中文名，英文名；（2）矿物对称性；（3）矿物物理性质；（4）矿物化学性质；（5）矿物光学性质；（6）矿物波谱；（7）其他特性。
 
-网址：http://www.geoscience.cn/mineral/
+14. 国土资源科学数据共享矿物数据库
 
-简介：由中国地质科学院信息中心建立，其特点与上述矿物数据库系统基本相同。
+    网址：http://www.geoscience.cn/mineral/
 
-##### 15. 矿物岩石地球化学无机物资源连接
+    简介：由中国地质科学院信息中心建立，其特点与上述矿物数据库系统基本相同。
 
-网址：http://www.uni-wuerzburg.de/mineralogie/links.html
+15. 矿物岩石地球化学无机物资源连接
 
-简介：提供世界各地有关矿物、岩石、地球化学、无机物的网络资源连接。
+    网址：http://www.uni-wuerzburg.de/mineralogie/links.html
 
-##### 16. 矿物红外光谱数据库
+    简介：提供世界各地有关矿物、岩石、地球化学、无机物的网络资源连接。
 
-网址：http://www.fdmspectra.com/
+16. 矿物红外光谱数据库
 
-简介：有千多种矿物光谱数据可下载。
+    网址：http://www.fdmspectra.com/
 
-##### 17. 晶体对称网站
+    简介：有千多种矿物光谱数据可下载。
 
-网址：http://newton.ex.ac.uk/people/goss/symmetry/Symmetry.html
+17. 晶体对称网站
 
-简介：介绍有关点群理论、点群分类、对称操作、晶体分类等晶体学理论知识，并有3D 图形演示、对称测试、实例等。
+    网址：http://newton.ex.ac.uk/people/goss/symmetry/Symmetry.html
 
-##### 18. 空间群和超空间群的数据库
+    简介：介绍有关点群理论、点群分类、对称操作、晶体分类等晶体学理论知识，并有3D 图形演示、对称测试、实例等。
 
-网址：http://www.cryst.ehu.es/
+18. 空间群和超空间群的数据库
 
-简介：Basque国立大学的晶体学网站，提供有关空间群、层群、子群等晶体学的信息和数据库。
+    网址：http://www.cryst.ehu.es/
 
-##### 19. 元素周期表
+    简介：Basque国立大学的晶体学网站，提供有关空间群、层群、子群等晶体学的信息和数据库。
 
-网址：http://www.webelements.com/
+19. 元素周期表
 
-简介：资料最全的元素周期表，包括与元素相关的语音动画等。
+    网址：http://www.webelements.com/
 
-##### 20. 无机化合物晶体结构数据库（ICSD）
+    简介：资料最全的元素周期表，包括与元素相关的语音动画等。
 
-网址：http://icsdweb.fiz-karlsruhe.de/ 镜像： http://icsd.ill.fr/icsd/
+20. 无机化合物晶体结构数据库（ICSD）
 
-简介：此库由德国FIZ ( Fachsinformationzentrum) Karlsruhe和GMELIN Institute Frankf urt联合编辑。这个库包含任何一种不含C-C或C- H键，却至少含一个非金属元素，其原子坐标已完成测定的化合物的所有结构信息。包括化学名和化学式、矿物名和相名称、晶胞参数、空间群、原子坐标、热参数、位置占位度、R因子及有关文献等各种信息。收集的物质自1915年至今，已包含约70 000个化合物，每年约以千余个的数字增长。为收费数据库。
+    网址：http://icsdweb.fiz-karlsruhe.de/ 镜像： http://icsd.ill.fr/icsd/
 
-##### 21. 晶体学公开数据库 Crystallography Open Database ( COD)
+    简介：此库由德国FIZ ( Fachsinformationzentrum) Karlsruhe和GMELIN Institute Frankf urt联合编辑。这个库包含任何一种不含C-C或C- H键，却至少含一个非金属元素，其原子坐标已完成测定的化合物的所有结构信息。包括化学名和化学式、矿物名和相名称、晶胞参数、空间群、原子坐标、热参数、位置占位度、R因子及有关文献等各种信息。收集的物质自1915年至今，已包含约70 000个化合物，每年约以千余个的数字增长。为收费数据库。
 
-网址：http://www.crystallography.net 或 http://cod.ibt.lt/
+21. 晶体学公开数据库 Crystallography Open Database ( COD)
 
-简介：这是由美国的国家科学基金会（NSF）、美国矿物学会（MSA）、加拿大矿物协会（MAC）和欧洲矿物学杂志（EJM）联合支持创办的对公众公开的晶体学数据库。所含各种晶体学数据是由各种组织、机构或个人捐助的。已收集有近两万个晶体结构数据。每个晶体的数据包括晶胞参数、原子坐标、文献资料等，是按CIF格式记录的。
+    网址：http://www.crystallography.net 或 http://cod.ibt.lt/
 
-##### 22. 粉末衍射数据库（JCPDS-ICDD）
+    简介：这是由美国的国家科学基金会（NSF）、美国矿物学会（MSA）、加拿大矿物协会（MAC）和欧洲矿物学杂志（EJM）联合支持创办的对公众公开的晶体学数据库。所含各种晶体学数据是由各种组织、机构或个人捐助的。已收集有近两万个晶体结构数据。每个晶体的数据包括晶胞参数、原子坐标、文献资料等，是按CIF格式记录的。
 
-网址：http://www.icdd.com
+22. 粉末衍射数据库（JCPDS-ICDD）
 
-简介：由国际粉末衍射数据中心建立的收费数据库，收录有各种化合物的d值、相对强度、晶胞参数、空间群和密度及数据来源，最新的PDF4 有专门的矿物字库，用于物相鉴定。
+    网址：http://www.icdd.com
+
+    简介：由国际粉末衍射数据中心建立的收费数据库，收录有各种化合物的d值、相对强度、晶胞参数、空间群和密度及数据来源，最新的PDF4 有专门的矿物字库，用于物相鉴定。
 
 
 
