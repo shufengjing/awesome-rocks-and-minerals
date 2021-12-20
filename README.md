@@ -110,9 +110,21 @@
 
 简介：关于石头的诗歌绘本。石头有无数种可能，可以许愿、可以打水漂、可以踢着玩、可以珍藏记忆。。。
 
+##### 10. A Rock is Lively
 
+![iLuyy Sywva Long](https://tva1.sinaimg.cn/large/008i3skNly1gxl1b96yr4j30dm0gpmz1.jpg)
+
+ 
+
+简介：从封面就窥见端倪，这本绘本或许是最美的岩石与矿物科普绘本。石头可以老、可大也可小、可以让人挥洒创意、可以有令人惊叹的美、也可以很有用。归根结底，石头充满活力。
 
 ### 拓展阅读：
+
+##### 1. 宝石圣典：矿物与岩石权威图鉴  Rock and Gem: The Definitive Guide to Rocks, Minerals, Gemstones, and Fossils 
+
+![s28925471](https://tva1.sinaimg.cn/large/008i3skNly1gxl27a2jklj30ca0dwgmi.jpg)
+
+简介：关于岩石和矿物的工具和参考书，内容详尽，第一部分关于宇宙和地球的起源简要介绍了岩石和矿物最初是如何形成的。
 
 
 
@@ -162,13 +174,13 @@
 
 ##### 1. 地心游记 Journey to the Center of the Earth (1959)
 
-![JULES VERNE](https://tva1.sinaimg.cn/large/008i3skNgy1gxjx3dt4kmj30rs15otfg.jpg)
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxjx3dt4kmj30rs15otfg.jpg" alt="JULES VERNE" style="zoom:50%;" />
 
 简介：1959年的老电影，根据凡尔纳经典科幻小说《地心游记》改编，剧情比较符合原著内容。很可惜，年代久远，不容易找资源。
 
 ##### 2. 地心历险记 Journey to the Center of the Earth (2008)
 
-![JOURNEY](https://tva1.sinaimg.cn/large/008i3skNgy1gxjxailmt3j30s515otjz.jpg)
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxjxailmt3j30s515otjz.jpg" alt="JOURNEY" style="zoom:50%;" />
 
 简介：剧情设定为现代，不是直接根据凡尔纳经典科幻小说《地心游记》改编，不过角色设定，以及剧情都和小说息息相关。剧情设定《地心游记》根本不是小说，而是真正的游记，有人确实到过地心，之后把故事告诉了凡尔纳。
 
@@ -187,6 +199,16 @@
 #### 音乐：
 
 ### 故事：
+
+### 工具：
+
+##### 1. Rock Identifier: Stone ID
+
+<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxl24hlcfrj30u01szti6.jpg" alt="IMG_A70BDFEFE5C4-1" style="zoom: 50%;" />
+
+
+
+简介：目前发现最好用的拍照识别岩石和矿物APP，识别记录自动保存，支持中文。国内应用市场没有上架，IOS版可以在美区APP Store上下载，安卓版可以通过Goolge Play安装。免费版有广告。
 
 ### 数据库：
 
@@ -315,7 +337,7 @@
 
     简介：此库由德国FIZ ( Fachsinformationzentrum) Karlsruhe和GMELIN Institute Frankf urt联合编辑。这个库包含任何一种不含C-C或C- H键，却至少含一个非金属元素，其原子坐标已完成测定的化合物的所有结构信息。包括化学名和化学式、矿物名和相名称、晶胞参数、空间群、原子坐标、热参数、位置占位度、R因子及有关文献等各种信息。收集的物质自1915年至今，已包含约70 000个化合物，每年约以千余个的数字增长。为收费数据库。
 
-21. ##### **晶体学公开数据库** **Crystallography** Open Database ( COD)
+21. ##### **晶体学公开数据库** Crystallography Open Database ( COD)
 
     网址：http://www.crystallography.net 或 http://cod.ibt.lt/
 
