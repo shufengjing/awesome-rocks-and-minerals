@@ -174,7 +174,7 @@
 
 ##### 1. 地心游记 Journey to the Center of the Earth (1959)
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxjx3dt4kmj30rs15otfg.jpg" alt="JULES VERNE" style="zoom:50%;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxjx3dt4kmj30rs15otfg.jpg" alt="JULES VERNE" style="zoom: 33%;" />
 
 简介：1959年的老电影，根据凡尔纳经典科幻小说《地心游记》改编，剧情比较符合原著内容。很可惜，年代久远，不容易找资源。
 
