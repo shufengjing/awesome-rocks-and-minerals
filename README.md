@@ -34,6 +34,8 @@
 
 ![JD.COM京东](https://tva1.sinaimg.cn/large/008i3skNly1gxgfz8daj6j30m80m840y.jpg)
 
+推荐理由：
+
 无字绘本，但内容丰富。
 
 2条故事线，一条故事线是以小女孩视角来讲述，小女孩家的狗去世了，小女孩很伤心，一直思念它，哪怕来到海边度假也是自己一个人在海边。
@@ -46,6 +48,8 @@
 
 ![老石头](https://tva1.sinaimg.cn/large/008i3skNly1gxgg1yqtgqj30pm0v845r.jpg)
 
+推荐理由：
+
 通过一块老石头和蜂鸟、瓢虫、高松树的对话，讲述老石头18亿年石生经历的故事：形成于黑黢黢世界、体验过火山爆发、见证过恐龙时代、亲历过冰河世纪，飞翔过也翻滚过，最终来到这片森林，和蜂鸟、瓢虫、高松树成为朋友。
 
 > 作者黛比·皮鲁蒂采用提问的方式，追溯一块石头在地球上的生活史，基于严谨的科学考察和博物馆研究，用儿童能接受对的趣味故事将地球历史娓娓道来，借历经沧桑的老石头之眼，带小读者身临其境地感受生命的伟大与渺小，培养孩子对地球与生命的发展历史的兴趣。
@@ -56,6 +60,8 @@
 
 ![驴小弟变石头](https://tva1.sinaimg.cn/large/008i3skNgy1gxgg7dqmcqj30p10ygtel.jpg)
 
+推荐理由：
+
 驴小弟（Sylvster）热爱收集各种各样的小石头，在一个下雨天，在野外偶然发现一个神奇的红石子，可以实现愿望。驴小弟很兴奋，赶紧回家给驴爸爸驴妈妈看，但很不幸，返程路上遇到一只狮子，吓得把自己变成了一个石头。驴爸爸驴妈妈费尽千辛万苦也没有找到驴小弟，万念俱灰。最后，驴爸爸驴妈妈的一次春游，让驴小弟又很幸运的变回了自己，和爸爸妈妈重逢。
 
 经典绘本，英文原版最早出版于1969年，凯迪克图画书金奖作品。
@@ -64,29 +70,15 @@
 
 ![石头](https://tva1.sinaimg.cn/large/008i3skNgy1gxgg91lu30j30u018yjvc.jpg)
 
+推荐理由：
+
 一块小石头从最开始以为自己是座大山，被扔进鸟窝以为自己是只鸟蛋，又被踢到池塘幻想自己是一座小岛，最后被一个小女孩带回家成为更多可能的故事。生活有无数可能，无论遇到什么处境，小石头都保持乐观，积极应对。
-
-5. 小石子，大秘密 This Little Pebble
-
-![大秒密](https://tva1.sinaimg.cn/large/008i3skNgy1gxghw44xn8j30m80m8afw.jpg)
-
-科普绘本，作者从小朋友口袋里面一颗灰色并带有白色条纹的小石子，引出一系列问题：
-
-- 小石子是什么类型？会不会很珍贵？
-
-- 怎么变成这个形状的？
-
-- 为什么会有白色条纹贯穿其中？
-
-- 从哪里来的？
-
-- 经历了什么？
-
-为了回答这些问题，绘本涵盖了包括火山喷发、岩石种类、岩石硬度、甚至石器时代等多个和岩石相关主题。
 
 6. 大石头和小石头 
 
 ![大石头和小石头](https://tva1.sinaimg.cn/large/008i3skNgy1gxghvlg3hzj30k00k0ac9.jpg)
+
+推荐理由：
 
 河马和乌龟分别都看到了会动的石头，然后激动的分别告诉妈妈，妈妈们都是一口否定了孩子：
 
@@ -100,17 +92,23 @@
 
 ![s28387968](https://tva1.sinaimg.cn/large/008i3skNgy1gxghj3uct5j30bq0dwt9z.jpg)
 
+推荐理由：
+
 相比石头的猜想，原版书名A Rock Can Be更直观表述这本书的内容。作者列举了石头在自然界的表现形式以及在生活中和自然界的应用，从常见的石头路、石头房子、大山，到不那么常见的石头可以做书立、可以生火、还可以发光等等，让孩子重新认识石头。
 
 8. 人人都需要一块石头 Everybody Needs a Rock
 
 ![人人都需要](https://tva1.sinaimg.cn/large/008i3skNgy1gxgie1jehxj30f60f6wfc.jpg)
 
+推荐理由：
+
 拜尔德·贝勒写给孩子的诗歌绘本。诗歌主题是找到专属于自己那块石头的十个守则。
 
 9. If You Find a Rock
 
 ![PHOTOGEAPHS](https://tva1.sinaimg.cn/large/008i3skNgy1gxjxn437pgj30dw0cowff.jpg)
+
+推荐理由：
 
 关于石头的诗歌绘本。石头有无数种可能，可以许愿、可以打水漂、可以踢着玩、可以珍藏记忆。。。
 
@@ -120,29 +118,93 @@
 
  
 
+推荐理由：
+
 从封面就窥见端倪，这本绘本或许是最美的岩石与矿物科普绘本。石头可以老、可大也可小、可以让人挥洒创意、可以有令人惊叹的美、也可以很有用。归根结底，石头充满活力。
 
 11. 石头与鸟儿 The Rock and the Bird
 
 ![s29986035](https://tva1.sinaimg.cn/large/008i3skNgy1gxl2rb9kpvj30hh0ln76e.jpg)
 
+推荐理由：
+
 一个关于成长、换位思考、友情、死亡和永恒的故事，短小精炼，却意味无穷，是一个可以打动所有年龄层读者的故事。
 
 作者是新加坡女孩周谢韶蔚，是14岁时参加英国皇家联邦协会征文比赛写下的获奖文章，当时文章名字为《不可能的朋友》（《Unlikely Friends》），后来改名《石头与鸟儿》（《The Rock and the Bird》）出版成书，也多次获奖，打动无数人。
 
+#### 活动
+
+1. **给孩子的地质学实验室 Geology Lab for Kids**
+
+   ![Gasesy Lab for Kids](https://tva1.sinaimg.cn/large/008i3skNly1gxqw0fu7r1j30u00u0dke.jpg)
+
+   推荐理由：
+
+   包含52个适合在家玩的实验，涵盖培育晶体、岩浆探秘、理解沉积岩和变质岩、制作化石以及玩艺术。有配套材料箱售卖。
+
+2. **早期STEM教学：科学、技术、工程与数学的整合活动 Teaching STEM in the Early Years: Activities for Integrating Science, Technology, Engineering, and Mathematics**
+
+   推荐理由：
+
+   书中包含88个STEM主题活动，每个活动都提供了支持孩子探究的点评和提问，其中和岩石矿物等地质相关的有“岩石里面是什么”、“很久很久以前：探索化石”等5个活动。
+
+   ![Teaching STEM in the Earky Y](https://tva1.sinaimg.cn/large/008i3skNly1gxqwzqx4t0j30g40lr403.jpg)
+
+3. **动手百分百：家庭实验室** 
+
+   ![100](https://tva1.sinaimg.cn/large/008i3skNly1gxqw9h7os8j30jr0f2gno.jpg)
+
+   推荐理由：
+
+   读小库出品，涵盖50个在家可以做的小实验，第一部分是地质，包含火山大爆发、造山运动等10个实验
+
 #### 拓展阅读
 
+1. **儿童宝石圣典：矿物与岩石视觉图鉴 My Book of Rocks and Minerals: Things to Find, Collect, and Treasure！**
 
+   ![儿童](https://tva1.sinaimg.cn/large/008i3skNly1gxt7dpp3yfj30f30izwh3.jpg)
 
-1. 宝石圣典：矿物与岩石权威图鉴  Rock and Gem: The Definitive Guide to Rocks, Minerals, Gemstones, and Fossils 
+   推荐理由：
 
-   ![s28925471](https://tva1.sinaimg.cn/large/008i3skNly1gxl27a2jklj30ca0dwgmi.jpg)
+   DK出品，大开本，更适合孩子自主阅读或者给孩子讲解，除了介绍常见岩石和矿物，还引导孩子去野外收集并开始自己的收藏。
 
-   关于岩石和矿物的工具和参考书，内容详尽，第一部分关于宇宙和地球的起源简要介绍了岩石和矿物最初是如何形成的，后面分别介绍了岩石、矿物以及宝石和化石。
+   作者德温·丹尼（Devin Dennie）是美国地质学家和科普工作者，地质科教节目《地质厨房》主持人。
+
+2. **小石子，大秘密** **This Little Pebble**
+
+   ![大秒密](https://tva1.sinaimg.cn/large/008i3skNgy1gxghw44xn8j30m80m8afw.jpg)
+
+   推荐理由：
+
+   科普绘本，作者从小朋友口袋里面一颗灰色并带有白色条纹的小石子，引出一系列问题：
+
+   - 小石子是什么类型？会不会很珍贵？
+
+   - 怎么变成这个形状的？
+
+   - 为什么会有白色条纹贯穿其中？
+
+   - 从哪里来的？
+
+   - 经历了什么？
+
+   为了回答这些问题，绘本涵盖了包括火山喷发、岩石种类、岩石硬度、甚至石器时代等多个和岩石相关主题。
+
+   
+
+3. 宝石圣典：矿物与岩石权威图鉴  Rock and Gem: The Definitive Guide to Rocks, Minerals, Gemstones, and Fossils 
+
+![s28925471](https://tva1.sinaimg.cn/large/008i3skNly1gxl27a2jklj30ca0dwgmi.jpg)
+
+推荐理由：
+
+DK出品，关于岩石和矿物的工具和参考书，内容详尽，第一部分关于宇宙和地球的起源简要介绍了岩石和矿物最初是如何形成的，后面分别介绍常见岩石、矿物以及宝石和化石。
 
 2. 深时之旅 UNDERLAND：A Deep Time Journey
 
    ![UNDERLAND](https://tva1.sinaimg.cn/large/008i3skNly1gxokhcrqfxj30u019iaqb.jpg)
+
+   推荐理由：
 
    行走文学书，作者麦克法伦被誉为“当代最好的行走文学作家”，本书作者带我们进入被绝大部分人忽视或者故意回避的地下世界，令人大开眼界。
 
@@ -151,6 +213,8 @@
 3. 地球用岩石写日记：追踪46亿年的地球故事 The Rocks: The Autobiography of the Earth
 
    ![READING](https://tva1.sinaimg.cn/large/008i3skNly1gxokmnkfpuj30pq1150y5.jpg)
+
+   推荐理由：
 
    地质科普书，作者是地质学家Marcia Bjornerud。地球用岩石说了46亿年的故事，本书带我们从解读岩石入手，一窥地球的过去与未来。
 
@@ -162,41 +226,136 @@
 
    ![JULES VERNE](https://tva1.sinaimg.cn/large/008i3skNly1gxom68y7vtj30u0162dkd.jpg)
 
+   推荐理由：
+
    经典科幻小说，作者凡尔纳被誉为“科幻小说之父”。小说讲述了德国科学家李登布鲁克教授受前人一封密码信指引，和侄子以及一名冰岛向导一起穿越地心的故事。
 
 5. 天上来的石头
 
    ![天上来的石头](https://tva1.sinaimg.cn/large/008i3skNly1gxongksk1fj30h20m8wha.jpg)
 
+   推荐理由：
+
    蓝精灵冒险故事，蓝精灵是比利时国宝级卡通形象，风靡60年。一颗陨石落在精灵村附近山顶上，这会给蓝精灵们带来什么厄运呢？
+
+### 图文
+
+1. **岩石循环 Rock Cycle**
+
+   ![Rock Cycle](https://tva1.sinaimg.cn/large/008i3skNly1gxwndu8arjj30t60oj42d.jpg)
+
+   非常清楚的展示了3大种类岩石之间的循环过程，火成岩（Igneous rock） -> 沉积岩（Sedimentary rock**）** -> 变质岩（Metamorphic rock） ->火成岩（Igneous rock）。
+
+   原文链接：https://www.sciencefacts.net/rock-cycle.html
+
+   [Rock Cycle – Definition, Steps, Importance, Diagram (sciencefacts.net)](https://www.sciencefacts.net/rock-cycle.html)
+
+2. **地球构造 Layers of The Earth**
+
+   ![Layers of the Earth](https://tva1.sinaimg.cn/large/008i3skNly1gxwng6mpsmj30sg0mqn0c.jpg)
+
+   信息量很大，包括每个分层是固态还是液态、每个分层厚度以及温度范围。
+
+3. **火山的类型 Types of Volcanoes**
+
+   ![TYPES OF VOLCANOES](https://tva1.sinaimg.cn/large/008i3skNly1gxwnhwgoxdj30rs0lvwi8.jpg)
+
+   根据火山喷发性质和岩浆种类，火山主要分为4种：
+
+   1. 火山渣锥（Cinder cone）
+   2. 层状火山（Composite volcano）
+   3. 盾状火山（Shield Volcano）
+   4. 火山穹丘（Lava dome）
+
+   根据火山活跃程度，大致可以分为3种：
+
+   1. 活火山
+   2. 休眠火山
+   3. 死火山
+
+4. 
 
 ### 视频
 
-#### 科普节目
+#### 短片
+
+1. 恐龙化石是如何形成的？How are dinosaur fossils formed?
+
+   ![NATURAI](https://tva1.sinaimg.cn/large/008i3skNly1gxnh298ozdj31h10u0adx.jpg)
+
+   链接：
+
+   https://www.nhm.ac.uk/discover/how-are-fossils-formed.html 
+
+   推荐理由：
+
+   这部科普动画短片来自伦敦自然历史博物馆，片长3分38秒，短小可爱，很适合小朋友观看和了解恐龙化石是如何形成的。
+
+2. **火山为什么会爆发？What makes volcanoes erupt?** 
+
+   链接：
+
+   https://www.ted.com/talks/steven_anderson_what_makes_volcanoes_erupt
+
+   [Steven Anderson: What makes volcanoes erupt? | TED Talk](https://www.ted.com/talks/steven_anderson_what_makes_volcanoes_erupt)
+
+   推荐理由：
+
+   TED-Ed出品，5分钟动画科普短片，解释了火山爆发的几大主要原因。未来火山爆发或许会越来越频繁。
+
+3. **晶体是如何工作的？How do crystals work?** 
+
+   链接：
+
+   https://www.ted.com/talks/graham_baird_how_do_crystals_work
+
+   [**Graham Baird: How do crystals work? | TED Talk**](https://www.ted.com/talks/graham_baird_how_do_crystals_work)
+
+   推荐理由：
+
+   很多晶体有非常漂亮的外形，它们是如何形成的？这个科普短片告诉你答案。
+
+4. **金子是哪里来的？Where does gold come from？**
+
+   链接：
+
+   https://www.ted.com/talks/david_lunney_where_does_gold_come_from#t-1631
+
+   [**David Lunney: Where does gold come from? | TED Talk**](https://www.ted.com/talks/david_lunney_where_does_gold_come_from#t-1631)
+
+   推荐理由：
+
+   TED-Ed出品，4分钟短片解释金元素是如何形成的。原来金子都是从外太空来的，未来或许会跨星球开采金矿。
+
+3. **岩石的类型 Types Of Rocks** 
+
+   推荐理由：
+
+   趣味动画科普，由Peekaboo Kidz制作，片长3分51秒，讲述了地球三大类岩石（沉积岩，变质岩，火成岩）的成因。
+
+#### 节目
 
 1. 地质厨房 Geology Kitchen
 
    ![Pasted Graphic 2](https://tva1.sinaimg.cn/large/008i3skNly1gxm7jxzqjzj31hw0u0q9y.jpg)
 
+   推荐理由：
+
    地质学科教节目，由地质学家德温·丹尼（Devin Dennie）主持，目前一共播放15集。
 
    节目是在美式开放厨房拍摄，利用常见食物来模拟岩石和矿物特性，不仅可以让孩子学习岩石与矿物等地质学知识，还可以顺便学习做美食。
 
-2. 恐龙化石是如何形成的？How are dinosaur fossils formed?
+2. **问问故事小机器人 Ask the StoryBots（2016, 2018, 2019）**
 
-   ![NATURAI](https://tva1.sinaimg.cn/large/008i3skNly1gxnh298ozdj31h10u0adx.jpg)
-
-   这部科普动画短片来自伦敦自然历史博物馆，片长3分38秒，短小可爱，很适合小朋友观看和了解恐龙化石是如何形成的。可以配合阅读内容：https://www.nhm.ac.uk/discover/how-are-fossils-formed.html 
-
-3. **岩石的类型 Types Of Rocks** 
-
-   趣味动画科普，由Peekaboo Kidz制作，片长3分51秒，讲述了地球三大类岩石（沉积岩，变质岩，火成岩）的成因。
+   
 
 #### 纪录片
 
 1. 纪录片：地球的起源 How the Earth Was Made  (2007，2009-2010)
 
    ![HSTORY](https://tva1.sinaimg.cn/large/008i3skNly1gxneck8mvaj30dw0dwwfv.jpg)
+
+   推荐理由：
 
     一部关于地球如何起源的纪录片。历史频道（History）出品，2007年播出1集90分钟的试播集，着重介绍长达46亿年地球地质史；之后于2009和2010年分别播放1季，每季13集，每集关注地球上一个特别地质特征，包括黄石公园、大峡谷、撒哈拉沙漠、珠穆朗姆峰，甚至纽约市，一共26集。
 
@@ -268,11 +427,15 @@
 
    ![AM OBJECT](https://tva1.sinaimg.cn/large/008i3skNly1gxnf51svaij30ss172798.jpg)
 
+   推荐理由：
+
    动画短片，讲述了一个来自远古时期见证过三叶虫等古生物的大石头，就想安安稳稳睡个觉，却因为被人类发现，从此颠簸流离，辗转挪移，直到最后尘归尘土归土石归石，又过上了想要的生活。
 
 4. 动量和惯性的故事 A Tale of Momentum & Inertia (2014)
 
    ![SPECIRL](https://tva1.sinaimg.cn/large/008i3skNly1gxnf6aok1uj30b40goq40.jpg)
+
+   推荐理由：
 
    这部动画短片由美国波特兰创意工作室制作，片长1分10秒。讲述了一名石头巨人试图挽回自己过失，拼尽全力去拯救一座小镇，结果遭受小镇居民误解和攻击，最终放弃拯救。充满哲理的结尾引人深思，本片因创意和视效获得布鲁克林动画街区动画舞会最佳短片奖等五项国际奖项。
 
@@ -280,13 +443,15 @@
 
    ![p2505816269](https://tva1.sinaimg.cn/large/008i3skNly1gxnfabvc4dj30ps0vawh5.jpg)
 
-   非常可爱的动画短片。3座骄傲的巨山分别拥有石油，黄金和火，小山没法和他们相比，它只有一粒看上去很可怜的种子。然而一粒种子可以成长为参天大树，充满生机。
+   推荐理由：
 
-   故事告诉我们做山不需要和别的山比较，做人亦是如此。
+   非常可爱的动画短片。3座骄傲的巨山分别拥有石油，黄金和火，小山没法和他们相比，它只有一粒看上去很可怜的种子。然而一粒种子可以成长为参天大树，充满生机。故事告诉我们做山不需要和别的山比较，做人亦是如此。
 
 1. 地心游记 Journey to the Center of the Earth (1959)
 
    <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxjx3dt4kmj30rs15otfg.jpg"  />
+
+   推荐理由：
 
    1959年的老电影，根据凡尔纳经典科幻小说《地心游记》改编，剧情比较符合原著内容。很可惜，年代久远，不容易找资源。
 
@@ -294,9 +459,11 @@
 
    <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxjxailmt3j30s515otjz.jpg" alt="JOURNEY" style="zoom:50%;" />
 
+   推荐理由：
+
    剧情设定为现代，不是直接根据凡尔纳经典科幻小说《地心游记》改编，不过角色设定，以及剧情都和小说息息相关。剧情设定《地心游记》根本不是小说，而是真正的游记，有人确实到过地心，之后把故事告诉了凡尔纳。
 
-### 场馆和设施
+### 场馆
 
 #### 博物馆
 
@@ -304,19 +471,31 @@
 
 1. 中国地质博物馆
 
-   官网：http://www.gmc.org.cn/
+   官网：
+
+   http://www.gmc.org.cn/
+
+   推荐理由：
 
    亚洲第一大地质学博物馆，馆藏岩石与矿物标本20余万件。
 
 2. 美国国立自然历史博物馆（National Museum of Natural History）
 
-   官网：https://naturalhistory.si.edu/
+   官网：
+
+   https://naturalhistory.si.edu/
+
+   推荐理由：
 
    国立自然历史博物馆拥有350000件矿物宝石展品（其中宝石10000件），数量庞大，宝石藏品量在全球各大博物馆傲居首位。
 
 3. 美国自然历史博物馆（American Museum of Natural History）
 
-   官网：https://www.amnh.org/
+   官网：
+
+   https://www.amnh.org/
+
+   推荐理由：
 
    世界上规模最大的自然历史博物馆。馆内的陈列内容极为丰富，包括天文、矿物、人类、古生物和现代生物5个方面，所藏宝石、软体动物和海洋生物标本尤为名贵。
 
@@ -324,13 +503,21 @@
 
 4. 伦敦自然历史博物馆（Natural History Museum）
 
-   官网：https://www.nhm.ac.uk/
+   官网：
+
+   https://www.nhm.ac.uk/
+
+   推荐理由：
 
    英国规模最大的自然历史博物馆，收藏超过8000万件动植物标本、矿物及化石。重要藏品包括长达25米的蓝鲸骨骼标本、第一批人类发现的禽龙牙齿化石等。
 
 5. 德国柏林自然历史博物馆( Museum für Naturkunde (MfN),英文：the Natural History Museum in Berlin)
 
-   官网：https://www.museumfuernaturkunde.berlin/en
+   官网：
+
+   https://www.museumfuernaturkunde.berlin/en
+
+   推荐理由：
 
    展区面积超过6000平方米，藏有3000多万件动物学、地质学、矿物学以及古生物学的标本，是德国最大的自然博物馆，也是世界上最大的科学博物馆之一。该博物馆拥有许多“世界之最”，比如：世界上数量最多的动物标本，世界上最大的恐龙化石。世界上最古老的鸟类化石以及世界上最大和最古老的陨石标本等。
 
@@ -348,23 +535,39 @@
 
    > 在神秘岛上的普罗米修士火山成为了尼莫船长的研究基地。在穿越火山内的洞窟之后，游客将搭乘“地心电梯”（テラヴェーター）前往位于地下1.5英里的研究设施基地站。基地站内是一个负责监控剧烈火山活动的通讯中心，但其中的科学家们因为正值休息时间而暂时离开中心。游客接着将乘坐以蒸汽作为动力的“地底行走车”，经由已开凿完成的隧道前往地球的中心。地底行走车会先经过布满彩色发光水晶的洞穴，接着穿越巨大蘑菇的森林，森林中居住着奇特的昆虫以及两栖动物。正当车辆准备继续前进时，突如其来的地震导致前方的隧道被落石堵住，使得地底行走车必须绕道经过一个充满巨大蛋形物体的洞窟。接着车辆在行经地底海洋的海岸时，被电离子瓦斯云所产生的闪电击中，导致地底行走车失去控制继续往火山的中心疾驶而去，并遇到了居住在那里的巨大的岩浆怪物。最后游客们所乘坐的地底行走车利用火山喷发的冲击力顺利逃出重回地表。
 
-### 活动
+### 网站
 
-#### 实验
+#### 活动
+
+1. **地球科学周-活动**
+
+   网址：
+
+   https://www.earthsciweek.org/classroom-activities
+
+   [**Classroom Activities | Earth Science Week (earthsciweek.org)**](https://www.earthsciweek.org/classroom-activities)
+
+   推荐理由：
+
+   地球科学周是由美国地质研究所每年举办的大型科普活动。
+
+   官网上可以根据年级以及主题来搜索200+地球科学类活动，年级涵盖K-12，主题包括岩石、矿物、化石等17个主题。
+
+2. **制作漂亮的食盐晶体**
+
+   利用家中常用材料就可以培育出漂亮的食盐晶体。培育晶体算是很流行的科普活动，美国、加拿大、爱尔兰、新加坡等国每年会举办青少年培育晶体大赛。
+
+   [**How to Grow Sodium Chloride Crystals at Home (crystalverse.com)**](https://crystalverse.com/sodium-chloride-crystals/)
 
 
 
 #### 收藏
 
-
+#### 艺术
 
 ### 拓展资源
 
 
-
-#### 网站
-
-1. 
 
 #### 微信公众号
 
